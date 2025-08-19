@@ -21,5 +21,5 @@ stored in a MongoDB database for easy querying and analysis.
 ## ⚙️ Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/PostHarvester.git
+git clone https://github.com/Aliamichael/Social_Media_Post_Harvester.git
 cd PostHarvester
